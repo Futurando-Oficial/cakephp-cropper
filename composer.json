@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/Cropper",
+    "name": "Futurando-Oficial/cakephp-cropper",
     "description": "Cropper plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Cropper\\Test\\": "tests/",
+            "cakephp-cropper\\Test\\": "tests/",
             "Cake\\Test\\": "vendor/cakephp/cakephp/tests/"
         }
     }
