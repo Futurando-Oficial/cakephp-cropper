@@ -16,7 +16,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "cakephp-cropper\\Test\\": "tests/",
+            "Cropper\\Test\\": "tests/",
             "Cake\\Test\\": "vendor/cakephp/cakephp/tests/"
         }
     }
