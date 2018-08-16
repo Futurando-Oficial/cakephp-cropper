@@ -1,0 +1,1 @@
+<?= $this->Html->script('Cropper.cropper.min.js'); ?>

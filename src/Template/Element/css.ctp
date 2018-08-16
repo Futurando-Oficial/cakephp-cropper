@@ -1,0 +1,1 @@
+<?= $this->Html->css('Cropper.cropper.min.css');?>

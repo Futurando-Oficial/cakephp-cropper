@@ -7,6 +7,6 @@ Router::plugin(
     'Cropper',
     ['path' => '/cropper'],
     function (RouteBuilder $routes) {
-        $routes->fallbacks(DashedRoute::class);
+        
     }
 );
